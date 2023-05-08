@@ -14,7 +14,7 @@
 
 #### Task 2: Dynamic Testing
 
-  Carry out dynamic testing on card_game.rb in the part_2_code folder.
+  Carry out dynamic testing on card_game.py in the part_2_code folder.
 
   Read through the code. Complete the test file and write a test for each function. Screenshot the test code and the tests failing Correct the errors you spotted in task A and screenshot the tests passing. Save screenshots in the same folder as the code.
 
